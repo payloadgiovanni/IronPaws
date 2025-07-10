@@ -17,10 +17,3 @@ ZTA or Zero Trust Architecture is a security frame work that is ubqitious across
 - Virtual environment tool (venv or virtualenv)  
 - Okta Developer account and application configured  
 
-### Installation
-
-1. Clone the repository  
-2. Create and activate a virtual environment:  
-   ```bash  
-   python3 -m venv venv  
-   source venv/bin/activate  
